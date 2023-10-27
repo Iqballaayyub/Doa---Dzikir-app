@@ -37,4 +37,5 @@ class ArtikelAdapter : RecyclerView.Adapter<ArtikelAdapter.ArticleViewHolder> ()
         }
     }
 
+
 }
